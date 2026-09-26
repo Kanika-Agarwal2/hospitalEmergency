@@ -1,0 +1,7 @@
+D107|Mr. Pareek|Trauma|BUSY|P2
+D106|Mr. Bharat|General Medicine|BUSY|P1
+D101|Dr. Sharma|Cardiology|BUSY|P6
+D102|Dr. Mehta|Neurology|AVAILABLE|
+D103|Dr. Verma|Orthopedics|AVAILABLE|
+D104|Dr. Gupta|General|AVAILABLE|
+D105|Dr. Singh|Emergency|AVAILABLE|
